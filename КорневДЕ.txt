@@ -1,0 +1,38 @@
+commit 1adc280d7715cec86edc8f63183df8b1698bf498
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:41:53 2023 +0500
+
+    + test.txt
+
+commit fdd62065c7742fe8c9d768c3e02fac2de50712f7
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:39:40 2023 +0500
+
+    + .gitignore
+
+commit 22b08cb7567f13323be8b0241cef89f66111b543
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:38:17 2023 +0500
+
+    Revert "* добавлена оценка текущего статуса по шкале"
+    
+    This reverts commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114.
+
+commit 10b4b9dea34f4ea11911b83e53fe58069d22d285
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:36:15 2023 +0500
+
+    * добавлено название аудитории
+
+commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:31:38 2023 +0500
+
+    * добавлена оценка текущего статуса по шкале
+    * добавлено название предмета
+
+commit 435e285c90f5875cfd3371cd390d6e80947d9eff
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:30:22 2023 +0500
+
+    мой первый коммит

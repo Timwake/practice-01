@@ -1,0 +1,43 @@
+commit c5fa5b3d5b9f6ccb8c92b86c647dedc510a12237
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:54:06 2023 +0500
+
+    prerelease.txt
+
+commit 90d5a09e934fc6ebcd1877e256d3328eff5bcc1d
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:52:45 2023 +0500
+
+    test.txt
+
+commit ff4371448109aaf5dcd6624045441983937fd3dd
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:49:53 2023 +0500
+
+    Gitignore file
+
+commit 3344f059b35acbeb0fe0735ba1182b9450f31601
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:45:52 2023 +0500
+
+    Revert "My current status and course name"
+    
+    This reverts commit 4ecf01d41cb0e77f2ef469730fd518a08b1d2d00.
+
+commit 9978d2b60adf017686cd66b541ae53c568bf05d1
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:41:22 2023 +0500
+
+    Audience number
+
+commit 4ecf01d41cb0e77f2ef469730fd518a08b1d2d00
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:35:27 2023 +0500
+
+    My current status and course name
+
+commit 1eacee0c3b9db413d5fdecdc16332bcdf4e4aeb3
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:31:10 2023 +0500
+
+    My first commit

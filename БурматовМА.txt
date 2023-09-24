@@ -1,0 +1,43 @@
+commit 439e106c85ef5cdc9eb14e10d1c1d74291525742
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:29:56 2023 +0500
+
+    Работа с ветками 2
+
+commit f89c5388360ef27a25e5edca87b21725904d69b7
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:27:52 2023 +0500
+
+    Работа с ветками
+
+commit de923970c35e92d99529645f30b7695c517bcc33
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:22:35 2023 +0500
+
+    Игнорируем
+
+commit 2ecaca8ab9c9a433a65330ac4b6364affd78c5d2
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:16:38 2023 +0500
+
+    Revert "Второй commit"
+    
+    This reverts commit 80eaf369c928b2c48bf9a2fdb8cdc47e6e106d6b.
+
+commit d001961d95853070eb072a9e0ba6ea7c33193d2b
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:09:40 2023 +0500
+
+    Третий коммит
+
+commit 80eaf369c928b2c48bf9a2fdb8cdc47e6e106d6b
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 10:51:07 2023 +0500
+
+    Второй commit
+
+commit 985b850c5e8579846bf94643f6b622a4a689dc9e
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 10:48:00 2023 +0500
+
+    Мой первый коммит

@@ -1,0 +1,37 @@
+commit 8be04409b6babb775bda04d0d1da2b94f515e7c4
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:17:23 2023 +0500
+
+    Создать test.txt
+
+commit 99cc8f2c96c32541852642575d9ee502dae8db71
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:14:54 2023 +0500
+
+    Добавить gitignore
+
+commit 78f182b3e85e887bea06e41086ad08a48ef8a0cd
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:10:33 2023 +0500
+
+    Revert "Добавить оценку и название"
+    
+    This reverts commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10.
+
+commit 1d0bd9dd97f8f15691b9a392dd2b5aa73b300ee0
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:04:10 2023 +0500
+
+    Добавить аудиторию
+
+commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:02:45 2023 +0500
+
+    Добавить оценку и название
+
+commit dae7417f9e61fa6633a7ee6f9f634ebc40e1399e
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 10:47:46 2023 +0500
+
+    Мой первый коммит

@@ -1,0 +1,308 @@
+commit cff78e72f436c5d7a9d036aebfa17eaba35a8155
+Merge: 0072e6e c1f7a04
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 12:04:43 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit c1f7a04425994bb8a33119cca0e4f89efc63241f
+Merge: 8be0440 1c6ec59
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 12:03:43 2023 +0500
+
+    ЕфимовДС
+
+commit 0072e6e9c143544cb1724ad5743e68ac849cb863
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:28:54 2023 +0500
+
+    add prerelease
+
+commit ad17b4c8defc070c8531785d1718b84d9f901a5c
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:11:32 2023 +0500
+
+    Revert "first"
+    
+    This reverts commit 28f112b995ce7bfc9505c9ef925600ca98a2e995.
+
+commit 8e4f528a036651993423a9203b7178fa3b353813
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:04:33 2023 +0500
+
+    add auditorium
+
+commit bac9fdb7c182cc71f9c5e27660e03c99e7fdf943
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:54:55 2023 +0500
+
+    try
+
+commit 981c152ac76128ed87f2ebae9e1d0f9a4d0ddf39
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:52:31 2023 +0500
+
+    merge rebase
+
+commit 1c6ec5926027ed5d577a764c1371b5b9a52d3ad6
+Author: Artem Belov <theflash.0320@gmail.com>
+Date:   Sat Sep 23 11:46:48 2023 +0500
+
+    БеловАМ
+
+commit df65e4354189350f34127dfbcf9da742c4e9bbd1
+Merge: 737c7c7 1f0227b
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:41:23 2023 +0500
+
+    add Калугин М.Д.
+
+commit 737c7c7db7170bb87398ee258b124d7a4e213ea0
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:36:33 2023 +0500
+
+    add Kalugin all
+
+commit 9f6d13af04f09e04f0099d1c39297e79b86c3458
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:34:19 2023 +0500
+
+    add Kalugin
+
+commit 1f0227b6bf844e9b4a281a4a2e2856fa20209715
+Merge: d1b442a 44693ee
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:30:30 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit d1b442aba4d669c6748c54aaa304a135706c3e56
+Merge: b0a61b0 ad45593
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:29:48 2023 +0500
+
+    ДобрынинАС
+
+commit 44693ee63a81be673e151b0dae6cd0f5203afb34
+Merge: 9f24d2d b0a61b0
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:28:05 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101 into main
+    
+    # Conflicts:
+    #       Сдали.txt
+
+commit 9f24d2dc2062038222ab1171c43d4577a65c77a3
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:25:54 2023 +0500
+
+    AVP
+
+commit b0a61b0ca153ea95c25f8fd5133f3d747eed3ccf
+Author: Демин Дмитрий <d.d.demin@urfu.me>
+Date:   Sat Sep 23 11:14:02 2023 +0500
+
+    Демин Д.Д.
+
+commit c6f04882e28a2ea05ed57f4d5b11c33a12108b75
+Merge: 926624f 8d39e81
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:17:57 2023 +0500
+
+    merge master
+
+commit 8be04409b6babb775bda04d0d1da2b94f515e7c4
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:17:23 2023 +0500
+
+    Создать test.txt
+
+commit ad455931eb4a9693568853bb1f64912853504f5c
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:16:19 2023 +0500
+
+    added git log
+
+commit 926624f01ba4c921e745802aa4fc4428f5c7c75a
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:15:03 2023 +0500
+
+    readme fix
+
+commit 99cc8f2c96c32541852642575d9ee502dae8db71
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:14:54 2023 +0500
+
+    Добавить gitignore
+
+commit c72ed7cdb806be469aaf389d4338eca474675a62
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:14:26 2023 +0500
+
+    readme fix
+
+commit 78f182b3e85e887bea06e41086ad08a48ef8a0cd
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:10:33 2023 +0500
+
+    Revert "Добавить оценку и название"
+    
+    This reverts commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10.
+
+commit 8d39e81c701c771f514570002f516cc6c24d542a
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 11:07:31 2023 +0500
+
+    Второй
+
+commit 073bcba923fa29b8fb43074c7584df3e838e44bc
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 11:05:05 2023 +0500
+
+    Емельянов А.А.
+
+commit 29db0e7658f764aad3c139ef6972f4bfc1e7c00f
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:52:57 2023 +0500
+
+    add test.txt
+
+commit d9e0fe555fd733da96efa9a9b2118951f3385042
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:49:11 2023 +0500
+
+    Добавил .gitignore
+
+commit 23e169be7c0c45a70ca4fc92bb42be975e8541cb
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:47:37 2023 +0500
+
+    Revert "Добавил оценку сложности и название предмета"
+    
+    This reverts commit f305398ee4af6eecb92bb9b12cff7f6b3d0c020f.
+
+commit 807df5e91285b72e95d4572ad90960d236df28fe
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:32:57 2023 +0500
+
+    Добавил номер аудитории
+
+commit 2c881112d74c35ba143e3ac68b4a5a0ba3ab20ac
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:26:52 2023 +0500
+
+    Добавил оценку сложности и название предмета
+
+commit 44f553e13a979211dc2cbd6779c8a8fa0b31d846
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:25:19 2023 +0500
+
+    Initial
+
+commit 1d0bd9dd97f8f15691b9a392dd2b5aa73b300ee0
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:04:10 2023 +0500
+
+    Добавить аудиторию
+
+commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:02:45 2023 +0500
+
+    Добавить оценку и название
+
+commit dfe401d3abc9682ca596a29a2cf6ae785913d33c
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:55:35 2023 +0500
+
+    + Сдали.txt, КорневДЕ.txt
+
+commit f0e88bfc397e777b6cbbc3110a5cd068510ea6c3
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:54:24 2023 +0500
+
+    added test
+
+commit f448461b426dae3922e7906de1a1195e9eac0e94
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:52:20 2023 +0500
+
+    added gitignore
+
+commit 25ba9709e5a32f6ec1d92a3f22bc781e444e60d4
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:50:12 2023 +0500
+
+    Revert "added number"
+    
+    This reverts commit aee314a439223b78e11c4d1c1888332722cf6cbf.
+
+commit dae7417f9e61fa6633a7ee6f9f634ebc40e1399e
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 10:47:46 2023 +0500
+
+    Мой первый коммит
+
+commit 23de829b093d48bac1109d1beb72e4d44b2d5101
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:45:46 2023 +0500
+
+    added room
+
+commit aee314a439223b78e11c4d1c1888332722cf6cbf
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:42:40 2023 +0500
+
+    added number
+
+commit 1adc280d7715cec86edc8f63183df8b1698bf498
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:41:53 2023 +0500
+
+    + test.txt
+
+commit 936f7c4b8b9ab5cf96bd512a828e79b6ac3ab419
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:40:49 2023 +0500
+
+    My first commit
+
+commit fdd62065c7742fe8c9d768c3e02fac2de50712f7
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:39:40 2023 +0500
+
+    + .gitignore
+
+commit 22b08cb7567f13323be8b0241cef89f66111b543
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:38:17 2023 +0500
+
+    Revert "* добавлена оценка текущего статуса по шкале"
+    
+    This reverts commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114.
+
+commit 10b4b9dea34f4ea11911b83e53fe58069d22d285
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:36:15 2023 +0500
+
+    * добавлено название аудитории
+
+commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:31:38 2023 +0500
+
+    * добавлена оценка текущего статуса по шкале
+    * добавлено название предмета
+
+commit 435e285c90f5875cfd3371cd390d6e80947d9eff
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:30:22 2023 +0500
+
+    мой первый коммит
+
+commit 296f8634dcd7474036ccbeb25b1da492c013e86b
+Author: Plazmer <praw2003@gmail.com>
+Date:   Fri Sep 22 20:32:53 2023 +0500
+
+    Initial commit

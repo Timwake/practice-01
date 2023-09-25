@@ -1,0 +1,42 @@
+commit da576c7940a361b58155c78a2a2f289043466816 (HEAD -> PRERELEASE, origin/PRERELEASE)
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 18:12:46 2023 +0500
+
+    Added file  prerelease
+
+commit 0739c29dd05a2d0d937cc0128132ea4397c5ac7b (origin/master, origin/TEST, master, TEST)
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 18:10:13 2023 +0500
+
+    Added file test
+
+commit 29082d7d3fa11db2ac1f82cee4c020ab589516a5
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 18:04:05 2023 +0500
+
+    Added .gitignore
+
+commit 37c718ab109ba5a6d625014143ee8ad15f2cb480
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 17:48:30 2023 +0500
+
+    Reverted commit
+
+commit 70e2dad6bf59b309dfc4510a966e590b2d8f685a
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 17:38:20 2023 +0500
+
+    Added class name
+
+commit b92bced4e53a4aa913543f1bfab0e6832ace4eb4
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 17:20:34 2023 +0500
+
+    Changed commit
+
+commit 9d459b2bb0acdc89da3726b29d321e3d5b89093a
+Author: Alexander Topchaev <topchayev@internet.ru>
+Date:   Mon Sep 25 16:28:29 2023 +0500
+
+    My first commit
+~

@@ -1,0 +1,43 @@
+commit a9967de346151211951dc407dfc17a546304a2ff
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:58:50 2023 +0500
+
+    add test
+
+commit f07dd113a495c972c7ea95d47148037ef9f7d2ae
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:52:05 2023 +0500
+
+    add gitignore
+
+commit 9bba62a49e1e1903e05a728de9a73e670baa679d
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:47:20 2023 +0500
+
+    Revert "add grade"
+    
+    This reverts commit aa4aded1e0ba5d8b1da872d37bbbe7aa7f1ef1af.
+
+commit dcf015b39dbde0337857547bf81c648ee8d6ab2b
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:41:42 2023 +0500
+
+    add auditory
+
+commit e0ec8d5ad1a6bd60f3116d6b43dfb29fa525fa42
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:35:15 2023 +0500
+
+    add name of dis
+
+commit aa4aded1e0ba5d8b1da872d37bbbe7aa7f1ef1af
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:33:21 2023 +0500
+
+    add grade
+
+commit 30ab6ff851793f74b9fc1fafc52e4970310d211b
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 10:31:47 2023 +0500
+
+    my first commit

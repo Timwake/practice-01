@@ -1,0 +1,43 @@
+commit 20a49f97593321531a5eb8badd2cff264e731a91
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 17:29:19 2023 +0500
+
+    added two .txt files
+
+commit 0d8be4fd79d7ce6d961645bd0f04cb3898e89d7d
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:53:22 2023 +0500
+
+    added test.txt
+
+commit d6bcf917b69274ffc9fe855802e0026a4ef7f3fc
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:50:45 2023 +0500
+
+    added .gitignore
+
+commit 83c42b5139094dcca1df6d8efb48d95d0a237a6d
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:45:40 2023 +0500
+
+    Revert "added an assessment of the current status on the scale and the name of the subject in readme.txt"
+    
+    This reverts commit b5d6bd3fee786aceb5562eaa22cd228f92fb886c.
+
+commit cbdcfd806b90242aa872134df97ae53108f3bae0
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:33:19 2023 +0500
+
+    added an audience to readme.txt
+
+commit b5d6bd3fee786aceb5562eaa22cd228f92fb886c
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:23:36 2023 +0500
+
+    added an assessment of the current status on the scale and the name of the subject in readme.txt
+
+commit 9edb6a38f8ae17dcf332dc0e4793767383e7c3c5
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 16:08:04 2023 +0500
+
+    my first commit

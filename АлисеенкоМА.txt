@@ -1,0 +1,51 @@
+commit 6b4766f303ee774386a9f5fd06c78230b28f8d07 (HEAD, origin/PRERELEASE, origin/HEAD, PRERELEASE)
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Mon Oct 2 16:04:58 2023 +0500
+
+    Добавил файл с ФИО
+
+commit c2507ffb6a084a1a887a634d5a05be7ecf33c03a
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:20:35 2023 +0500
+
+    6. Шестой коммит
+
+commit 04246120b0b4effbf6d05d8887cf9ebe474cd5a0 (origin/test, origin/master, origin/main)
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:19:35 2023 +0500
+
+    5. Пятый коммит
+
+commit 7d583289ee09f42bdca9b3c61bf33e1770d7c58a
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:17:28 2023 +0500
+
+    4. Четвертый коммит
+
+commit ba99ad2308138f93188fa95096dd7a40a715ecfe
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:14:27 2023 +0500
+
+    Revert "2. Второй коммит + изменения"
+    
+    This reverts commit 488e3f57192d6adfd123d9fe7656458313ed03fe.
+
+commit 68157589d761c45e339c6b83a1438bd0e7b8dffa
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:12:31 2023 +0500
+
+    3. Третий коммит
+
+commit 488e3f57192d6adfd123d9fe7656458313ed03fe
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:01:20 2023 +0500
+
+    2. Второй коммит + изменения
+
+commit 28038f98a536ba76ad5040ffcef4735a06e6f6f4
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Tue Sep 26 18:00:23 2023 +0500
+
+    1. Мой первый коммит

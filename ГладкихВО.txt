@@ -1,0 +1,37 @@
+commit 69b85dfac7534006f60abecf90532f41a24bb3e5
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 07:01:02 2023 +0100
+
+    Add prerelease file
+
+commit a953055d62182d539e3f3ae34bafb7e1ce6a3917
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:57:40 2023 +0100
+
+    Add gitignore
+
+commit 189f161d140b068cb3f99b63fe79260d5b9b071b
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:53:53 2023 +0100
+
+    Revert "Add mood"
+    
+    This reverts commit c82b78c26fa9627f2c727076a81ec0d9343b1923.
+
+commit 274b47559afd6eb9ea3999bbe3db4eea5d908b69
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:48:45 2023 +0100
+
+    Add room
+
+commit c82b78c26fa9627f2c727076a81ec0d9343b1923
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:39:54 2023 +0100
+
+    Add mood
+
+commit 99c46108047e3edb918834569667d7252b8745e6
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:36:14 2023 +0100
+
+    Мой первый коммит

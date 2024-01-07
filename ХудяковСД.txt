@@ -1,0 +1,60 @@
+commit ac54d1cb1563171f783efebd69c1edd4faa25ade
+Merge: 185cbc0 f065bde
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:56:15 2023 +0500
+
+    Merge branch 'prerelease' of https://github.com/Sergeydm/Practice into prerelease
+
+commit 185cbc0d4ddcf42765f9a155539378a9a6296e26
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:53:48 2023 +0500
+
+    commit prerelease
+
+commit 85e0634203d8c7aa724acb0fd6c474ae2016a048
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:54:27 2023 +0500
+
+    Create test.txt
+
+commit f065bde31d67eecf97da207c551bda606ba99203
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:53:48 2023 +0500
+
+    commit prerelease
+
+commit 5a81b5a4879227e97a1cf8274c0376ec73fd27e7
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:51:32 2023 +0500
+
+    Create .gitignore
+
+commit f47f3d8bbfb3e89ad6abd3ccd14dd4849582246e
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:43:49 2023 +0500
+
+    Four
+
+commit d07f05d6f01c6066b08b38027c23763dfdb2fc3b
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:42:41 2023 +0500
+
+    third
+
+commit 4079439ecc876cb3e6ce647eb2fa4e6ed21e2dad
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:41:54 2023 +0500
+
+    second
+
+commit 060491fa6c81ceea1e6b5689bf555cbceabe2785
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:39:47 2023 +0500
+
+    Мой первый коммит
+
+commit ecdfd8dd34562421993f600545607cad1bf044ba
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:37:19 2023 +0500
+
+    Initial commit

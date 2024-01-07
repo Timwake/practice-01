@@ -1,0 +1,53 @@
+commit 6bca4f82d68593f8f62ca118716bc0073e49e9fd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:07:49 2023 +0500
+
+    added prelease.txt
+
+commit c106be5d6ca6cf13f1819574d36023ab3b2b0aa2
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:06:56 2023 +0500
+
+    added test.txt
+
+commit 092bd600874875ba0332b93d17cc9d9967552d6e
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:01:07 2023 +0500
+
+    Revert "добавил оценку статуса (а ещё добавил название предмета через --amend)"
+    
+    This reverts commit 8af251118a42e1f3adee8697101bb4ae9d4242c8.
+
+commit 7894766d515e2cac52f29afb6d6ca833bff799cd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:58:49 2023 +0500
+
+    Revert "Revert "третий коммит""
+    
+    This reverts commit e34dfd09dc84d4cbded0c3c12e5a49bc0a8c8a06.
+
+commit e34dfd09dc84d4cbded0c3c12e5a49bc0a8c8a06
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:56:47 2023 +0500
+
+    Revert "третий коммит"
+    
+    This reverts commit 29c32bcf3703131f42d45948d2a6cad131b7defd.
+
+commit 29c32bcf3703131f42d45948d2a6cad131b7defd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:56:15 2023 +0500
+
+    третий коммит
+
+commit 8af251118a42e1f3adee8697101bb4ae9d4242c8
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:51:00 2023 +0500
+
+    добавил оценку статуса (а ещё добавил название предмета через --amend)
+
+commit 63cabbd0b0ef025204d885fd6775ff3ef94e31de
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:50:23 2023 +0500
+
+    первый коммит

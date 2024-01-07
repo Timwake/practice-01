@@ -1,0 +1,43 @@
+commit d63a2ce75c18252d1981915de75291217d87e43d
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 11:28:52 2023 +0500
+
+    Добавил prerelease.txt
+
+commit 6d0f8503f8e81a95ab07e6b76369662fea21925a
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 11:36:22 2023 +0500
+
+    Добавил test.txt
+
+commit 354e7f5dfd92a29072bcaa5eacb6221978c64541
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 11:16:39 2023 +0500
+
+    Добавил gitignore
+
+commit 19f3e0ced9c462b6f4074100e6f0367cc3b4e2cb
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 11:10:24 2023 +0500
+
+    Revert "Добавил оценку и название предмета (изменено)"
+    
+    This reverts commit a945010bf32f7009d8c27308694e2967653d34ef.
+
+commit a3ae06c543d189baf84a8b37a372bc3bbb9e9b6b
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 11:02:05 2023 +0500
+
+    Добавил название аудитории
+
+commit a945010bf32f7009d8c27308694e2967653d34ef
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 10:56:55 2023 +0500
+
+    Добавил оценку и название предмета (изменено)
+
+commit 4e06e519ca89ec30c0d42309ef24f5f9910f38df
+Author: Shaikhullin Aidar <shaikhullin.aidar@gmail.com>
+Date:   Sat Sep 23 10:46:15 2023 +0500
+
+    Мой первый коммит

@@ -1,0 +1,43 @@
+commit 1c647bf79a8bde45213de04781795eee92f63417
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 21:25:16 2024 +0500
+
+    prerelease
+
+commit fb2a58a56d188ebd138e8b8a174137fdb3b75a50
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 21:12:29 2024 +0500
+
+    test
+
+commit 105482ae4a421021e2f8a07b62c01063f75191d7
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 21:01:36 2024 +0500
+
+    .gitignore
+
+commit 7f0f2b2f190a63212f23368793d40e8194ac7add
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 20:41:03 2024 +0500
+
+    Revert "second, changed"
+    
+    This reverts commit ca2b0f18370c430bf3cee345157b61d7d0c2b666.
+
+commit 0a5a8f80adb9efc01ce038b79de8193a710947ff
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 20:35:10 2024 +0500
+
+    third
+
+commit ca2b0f18370c430bf3cee345157b61d7d0c2b666
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 20:33:08 2024 +0500
+
+    second, changed
+
+commit a2a0530c83e1f3ebbc232fd6a23b922d82778468
+Author: Dmitry Karasik <dirmichru@mail.ru>
+Date:   Tue Jan 16 20:31:20 2024 +0500
+
+    first

@@ -1,0 +1,37 @@
+commit d3082010c7e9f68ba849cf68acbcbdaa399a8ff0
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:52:22 2023 +0500
+
+    test.txt
+
+commit 8710ebe90371ef712431fa1f746e75b632eca897
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:50:19 2023 +0500
+
+    .gitignore
+
+commit 763f6d7eced1a1178fd752760563f7f5738b5fc1
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:48:39 2023 +0500
+
+    Revert "Оценка статуса, изменённая"
+    
+    This reverts commit cefec4995824aec73f98865f427b874b1c1bb30e.
+
+commit 8b8c0c506adb20c1592f21c977d6d641ee8fa9c0
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:45:47 2023 +0500
+
+    Аудитория
+
+commit cefec4995824aec73f98865f427b874b1c1bb30e
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:40:45 2023 +0500
+
+    Оценка статуса, изменённая
+
+commit 9d5668a971af49f8534d51bca122d4eac35a7c4e
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 10:39:31 2023 +0500
+
+    Мой первый коммит

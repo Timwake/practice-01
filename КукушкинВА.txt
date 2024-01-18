@@ -1,0 +1,43 @@
+commit 0c7fd67018edc19b7010651fe368ffa9a216761d
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Tue Oct 3 12:52:58 2023 +0500
+
+    prerelease.txt
+
+commit a67cca5aacd2f19ac0eb031f19e07e77e23e65db
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Tue Oct 3 12:49:28 2023 +0500
+
+    test.txt
+
+commit 2e71b4655d2d7173e6cf50f176d05663fc951611
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Tue Oct 3 12:43:09 2023 +0500
+
+    добавил .gitignore
+
+commit d6444eea1196cc2a78c14121cacf90147a5d7b31
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Fri Sep 29 13:16:32 2023 +0500
+
+    Revert "Добавил оценку"
+    
+    This reverts commit c63b34d0b2ab8e656abbd66da1061eddfe8662d5.
+
+commit 369066cadfefc599c816fca9bacecc1088c042b1
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Fri Sep 29 13:11:40 2023 +0500
+
+    Аудитория
+
+commit c63b34d0b2ab8e656abbd66da1061eddfe8662d5
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Fri Sep 29 13:07:35 2023 +0500
+
+    Добавил оценку
+
+commit 8bdd2ab67a344a77226141b631019f945dd0314e
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Fri Sep 29 13:04:05 2023 +0500
+
+    Мой первый коммит

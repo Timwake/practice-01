@@ -1,0 +1,1093 @@
+commit 7f2312469d8d5ef8413c3c98cd7f844f759086d5
+Author: Сюй Хао <xu1141013184@163.com>
+Date:   Sun Dec 24 00:54:06 2023 +0800
+
+    first commit
+
+commit 37ae872b433ab47d69239c1ed49ea16df0443889
+Author: vivivioletta <ngoanne02@gmail.com>
+Date:   Sat Dec 16 00:56:51 2023 +0500
+
+    git log NgoYameni
+
+commit 0766c5467292058f0465bdc59f4353aeaff99acd
+Author: Artyom Klyuev <artemkluev2000@yandex.ru>
+Date:   Wed Nov 22 22:53:50 2023 +0500
+
+    Клюев А.А.
+
+commit 45bd26404517ffb8aef6c6b3dd7e785fff5b6a32
+Author: Oleg Klyuev <olegkluev1507@gmail.com>
+Date:   Sun Nov 12 14:35:59 2023 +0500
+
+    Клюев ОА РИМ-130990
+
+commit f8119b780022183a27cb3b152a1940422c7834ad
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Nov 11 16:01:31 2023 +0500
+
+    сдал Чечихин
+
+commit 56e5c6271e5f42595cab8d3ef064cf3df2006094
+Merge: 30c19ad f277370
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Nov 11 16:00:44 2023 +0500
+
+    Merge branch 'PRERELEASE'
+
+commit f2773701f9d10974557e7a3f6d7b37d9085de17e
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Nov 11 15:59:44 2023 +0500
+
+    git log to file.txt
+
+commit 30c19ad65ea77b386b60189cb6cf98c78863dafc
+Merge: da7e913 14d99a6
+Author: Kolyvan <76121920+realOrihs@users.noreply.github.com>
+Date:   Fri Oct 27 23:40:51 2023 +0500
+
+    Merge pull request #3 from ProgramIngeneering2023/PRERELEASE
+    
+    Prerelease merge Practice01
+
+commit 14d99a6b90ee35248cef6fb68a9a8a1ae4848504
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Fri Oct 27 23:38:02 2023 +0500
+
+    Update Сдали.txt
+
+commit 877d8990eeaaf47b2decf9034a684a0c97e2c490
+Merge: 325d747 00f5055
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Fri Oct 27 23:35:41 2023 +0500
+
+    Merge branch 'PRERELEASE' of https://github.com/realOrihs/practice-01 into PRERELEASE
+
+commit 325d747c89c15e252d76a4ccf38d070bfcf86d85
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Fri Oct 27 23:35:37 2023 +0500
+
+    КолыгановИД, Сдали.txt
+
+commit c067fa6f53fc436a034114ac948f0c04352a8353
+Merge: 0e7c898 da7e913
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Fri Oct 27 23:29:35 2023 +0500
+
+    КолыгановИД.txt, Сдали.txt
+
+commit 00f5055b7ddede3e126b334a08d3c647e5cabefa
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:26:25 2023 +0500
+
+    prerelease.txt addition in prerelease branch
+
+commit 0e7c898ef5ecebe1bb6bb0bbc158e98be7b118ad
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:24:25 2023 +0500
+
+    gitignore
+
+commit 0b322b9ad750318ea3f48ed743d23e6abb608441
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:18:45 2023 +0500
+
+    Revert "interest grade + item amend"
+    
+    This reverts commit 7d6c34fc2543d976e7de1a9c34072a86a9328248.
+
+commit 42168e6906a8bc79507d613fcc59001b3be40d38
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:15:45 2023 +0500
+
+    auditory
+
+commit 7d6c34fc2543d976e7de1a9c34072a86a9328248
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:11:13 2023 +0500
+
+    interest grade + item amend
+
+commit da4e1bdbb6a0e20cc30b59e6c95599b424d488c5
+Author: Ivan Kolyganov <ivan.kolyganov2302@gmail.com>
+Date:   Mon Oct 23 17:08:18 2023 +0500
+
+    My first commit
+
+commit da7e913a73ebc46550dab636643cfc2c6dd9e7e6
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 17:47:14 2023 +0500
+
+    fix encoding
+
+commit 8abb11c930f4cb3915f9558cf253cd5160af3c3e
+Author: Artem Saplin <artemsaplin@yandex.ru>
+Date:   Fri Oct 13 17:44:51 2023 +0500
+
+    added and modified txt files
+
+commit d957b76034ef2bdda740cb750edf655955f2c084
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 8 14:07:15 2023 +0500
+
+    editing txt file
+
+commit 5308522798c3a550e2fd3a61feecb562bebad281
+Author: Karina Nikitina <kira610v@mail.ru>
+Date:   Sun Oct 8 13:51:57 2023 +0500
+
+    sending to github
+
+commit eba139e6df1db4aaa9b4e94a2790e9e31bf2e699
+Author: Vitaliy Alekseevich <vit.k2000@yandex.ru>
+Date:   Sat Oct 7 00:02:23 2023 +0500
+
+    КукушкинВА
+
+commit 9824f4e0baf813c6f6cf560a63153612b52f48d9
+Author: Fedor Matveev <matveevfg@mail.ru>
+Date:   Thu Oct 5 19:52:42 2023 +0500
+
+    first lab
+
+commit db41ca6d45bde3906a0f97c60a4ac12036bc73b9
+Author: 1nfomatch <Pinto851nf@Yandex.ru>
+Date:   Wed Oct 4 19:38:25 2023 +0500
+
+    ОрловИВ
+
+commit de744d1832183d8189b712ad3218e3364829ba40
+Author: Maksim Aliseenko <maksimwrx@gmail.com>
+Date:   Mon Oct 2 19:10:41 2023 +0500
+
+    Добавление ФИО и сдал
+
+commit a2d0e6428e475cdfd11551e6b99da498211db72d
+Author: Mirkel <72087524+Zav-lab@users.noreply.github.com>
+Date:   Sun Oct 1 15:04:29 2023 +0500
+
+    Update Сдали.txt
+
+commit 06bb0f83b15398057934c24cde50106b04b0bb18
+Author: Mirkel <72087524+Zav-lab@users.noreply.github.com>
+Date:   Sun Oct 1 15:03:22 2023 +0500
+
+    Rename Стешин В.И. to Стешин В.И.txt
+
+commit cd8a7b41016900f7cdf5fb689dce80321754df6a
+Author: Mirkel <72087524+Zav-lab@users.noreply.github.com>
+Date:   Sun Oct 1 15:02:42 2023 +0500
+
+    Create Стешин В.И.
+
+commit b6c91ecc1516ca859a68130ecf707de294c989cf
+Merge: 53abdb5 ead2345
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 20:25:22 2023 +0500
+
+    Merge remote-tracking branch 'second_repo/main'
+
+commit ead23452646eb2349abc0e40edb8367bc7a77880
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:57:47 2023 +0500
+
+    Create ХудяковСД.txt
+
+commit ac54d1cb1563171f783efebd69c1edd4faa25ade
+Merge: 185cbc0 f065bde
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:56:15 2023 +0500
+
+    Merge branch 'prerelease' of https://github.com/Sergeydm/Practice into prerelease
+
+commit 185cbc0d4ddcf42765f9a155539378a9a6296e26
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:53:48 2023 +0500
+
+    commit prerelease
+
+commit 85e0634203d8c7aa724acb0fd6c474ae2016a048
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:54:27 2023 +0500
+
+    Create test.txt
+
+commit f065bde31d67eecf97da207c551bda606ba99203
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:53:48 2023 +0500
+
+    commit prerelease
+
+commit 5a81b5a4879227e97a1cf8274c0376ec73fd27e7
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:51:32 2023 +0500
+
+    Create .gitignore
+
+commit f47f3d8bbfb3e89ad6abd3ccd14dd4849582246e
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:43:49 2023 +0500
+
+    Four
+
+commit d07f05d6f01c6066b08b38027c23763dfdb2fc3b
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:42:41 2023 +0500
+
+    third
+
+commit 4079439ecc876cb3e6ce647eb2fa4e6ed21e2dad
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:41:54 2023 +0500
+
+    second
+
+commit 060491fa6c81ceea1e6b5689bf555cbceabe2785
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:39:47 2023 +0500
+
+    Мой первый коммит
+
+commit ecdfd8dd34562421993f600545607cad1bf044ba
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:37:19 2023 +0500
+
+    Initial commit
+
+commit 53abdb5ab20fcbbe9feed3abc95b357741f6c0e2
+Author: Sergei Khudiakov <Sergeydm8001@list.ru>
+Date:   Fri Sep 29 19:18:13 2023 +0500
+
+    Update Сдали.txt
+
+commit e165fe3ecdd9b81b6dc6cc8bfad6001986b3023b
+Author: topchaev29 <144859187+topchaev29@users.noreply.github.com>
+Date:   Fri Sep 29 18:17:27 2023 +0500
+
+    Update Сдали.txt
+
+commit aeb552430d496836314bd498ec1f73ce0453494b
+Author: topchaev29 <144859187+topchaev29@users.noreply.github.com>
+Date:   Fri Sep 29 18:12:48 2023 +0500
+
+    Update Сдали.txt
+
+commit 2cffc29414df6830246e26803b68a9cd85b984e7
+Merge: 8b0b3c8 8470c45
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 16:09:05 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit 8b0b3c8ffb320aaacedfaefe9da920ed198dc755
+Merge: 21fa49f 2adfbd5
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 16:03:51 2023 +0500
+
+    Merge branch 'PRERELEASE'
+
+commit 2adfbd51e86b5507195746d58b13ceb5bb70f1c0
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 15:50:48 2023 +0500
+
+    ВалинуровИФ
+
+commit 8470c45cf7ce3efb1d023b2c29b29bb87e2b2afa
+Merge: b4c8a86 21fa49f
+Author: Amur <amur_almukhametov@mail.ru>
+Date:   Fri Sep 29 15:59:18 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit b4c8a866da45f693f7a3c5b6a8ce78dd5e59dba9
+Author: Amur <amur_almukhametov@mail.ru>
+Date:   Fri Sep 29 15:58:19 2023 +0500
+
+    Альмухаметов АА
+
+commit 21fa49f8b0aa1adc5678567e2b9beeedda631b6a
+Merge: c69fec4 4b2c890
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 15:57:31 2023 +0500
+
+    Merge branch 'PRERELEASE'
+
+commit 4b2c890a6e76333d6cce05fb33377f2e02b82a6d
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 15:50:48 2023 +0500
+
+    ВалинуровИФ
+
+commit c69fec44d2312c735cc71558468d1395d39d13a1
+Merge: b7ab229 9c40e73
+Author: elglumo <92442613+elglumo@users.noreply.github.com>
+Date:   Fri Sep 29 14:55:51 2023 +0500
+
+    Merge pull request #1 from ProgramIngeneering2023/PRERELEASE
+    
+    сдал Кузнецов
+
+commit 9c40e731460aabc6ee259fd9fafe09e580057562
+Author: Andrey Kuznetsov <ak170517@gmail.com>
+Date:   Fri Sep 29 14:49:48 2023 +0500
+
+    сдал Кузнецов
+
+commit b7ab229d7113877869ec499c2d7df38406258974
+Author: ShaikhullinAidar <shaikhullin.aidar@gmail.com>
+Date:   Fri Sep 29 14:44:19 2023 +0500
+
+    Добавил ШайхуллинАР.txt и отредактировал Сдали.txt
+
+commit ab8365da8d4308ec0c39d992bcfafa6309a07780
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:36:30 2023 +0500
+
+    file added prerelease.txt
+
+commit 0b95b588a157bfa204d4f580aaaab3ce02e88207
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:34:18 2023 +0500
+
+    file added test.txt
+
+commit f06a24b1f6e514828d00f643271a1912a18f2967
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:16:13 2023 +0500
+
+    Revert "Changed"
+    
+    This reverts commit 16cec6ac09617826c88f4f081f8c3cd35481cbc7.
+
+commit 4eea0d50e1eeb1e8a4af5332cae05849ed3ebc5c
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:12:07 2023 +0500
+
+    third
+
+commit 16cec6ac09617826c88f4f081f8c3cd35481cbc7
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:04:16 2023 +0500
+
+    Changed
+
+commit b8b8eeb5a4f6ae161860fbb7a74994c5091fea92
+Author: Ilmir Valinurov <valinurov.ilmir@inbox.ru>
+Date:   Fri Sep 29 14:03:23 2023 +0500
+
+    first
+
+commit 90ce2dbe48750093c11ca8e10fb3b0ebddeeeab0
+Author: Kolotov1199 <145827605+Kolotov1199@users.noreply.github.com>
+Date:   Wed Sep 27 22:08:26 2023 +0500
+
+    Update Сдали.txt
+    
+    TEST
+
+commit a60e96cd37edba15ba61013328e155a7266a0206
+Author: Dmitrii Toropov <dimator1973@gmail.com>
+Date:   Wed Sep 27 14:00:45 2023 +0500
+
+    Sdali.txt
+
+commit f4315e807b5a273a40de352872bc91adb28b38e7
+Author: topchaev29 <144859187+topchaev29@users.noreply.github.com>
+Date:   Mon Sep 25 16:26:12 2023 +0300
+
+    Added Topchaev file
+
+commit c625853046ab7b1c57a2eb03bd3ed4038c861451
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sun Sep 24 12:26:31 2023 +0100
+
+    Добавил свои данные в Сдали.txt
+
+commit 3f572b4f5e65df8bd5ad431caa4406b1cd26d009
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sun Sep 24 12:19:06 2023 +0100
+
+    Add my log file
+
+commit a440db8d0743112d004f12863f7dc75962b8d7fd
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:53:53 2023 +0100
+
+    Revert "Add mood"
+    
+    This reverts commit c82b78c26fa9627f2c727076a81ec0d9343b1923.
+
+commit 2f0bfaf3b8747e1cab2e803af49688a02cfa07ee
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:48:45 2023 +0100
+
+    Add room
+
+commit c3c20db5933a86efb5d95a0d8aa6016e55fca6d2
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:39:54 2023 +0100
+
+    Add mood
+
+commit 7c034b0162f4af2bc9a82448593397c9de826ff4
+Author: Vladislav Gladkikh <laker307@yandex.ru>
+Date:   Sat Sep 23 06:36:14 2023 +0100
+
+    Мой первый коммит
+
+commit e281f81d14c1b75f4f94bdd12378fe1a828d7200
+Merge: aa9ea28 5b26c1b
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sun Sep 24 11:20:26 2023 +0500
+
+    Merge main
+
+commit 5b26c1b78f5881e33cd1d59c4f7075dacc648f3e
+Merge: 506a0c3 93b22b3
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 14:41:40 2023 +0500
+
+    Bur main
+
+commit 93b22b30ff0630f9955a345d3b0418d67b756a93
+Merge: 94180f1 716d776
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 14:33:09 2023 +0500
+
+    Merge remote-tracking branch 'origin/RELEASE' into HEAD
+
+commit 94180f1b5b9ed90bac24817eec75970ab0be0a62
+Merge: 0bc0c0a 439e106
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 14:26:28 2023 +0500
+
+    Bur Prerelease
+
+commit 716d776a441baa7f8bf8871534c177dcf6637cde
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 14:02:39 2023 +0500
+
+    Add Burmatov log
+
+commit 506a0c38f0014d22c4ba50c697ff96706bc91a9b
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:43:54 2023 +0500
+
+    update Сдали.txt & ПлюхинИА.txt
+
+commit 55606f8c84e59a4d0576adeb2a7ffb2660683ab2
+Merge: ca70575 7cb9729
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:39:26 2023 +0500
+
+    Merge branch 'main' of github.com:ProgramIngeneering2023/Practice101 into main
+
+commit ca70575a6b525b80f3ce8d8170efac73d73b5b76
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:15:00 2023 +0500
+
+    add test.txt
+
+commit e9ef9027ec89b280b0e7624f51e9e4681f650c40
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:13:43 2023 +0500
+
+    add .gitignore
+
+commit f19387ba2b124f7af78c46eda55983747ed42e1a
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:12:05 2023 +0500
+
+    Revert "add grade very boring and subject name"
+    
+    This reverts commit a2e20cd811b59f3eb9754d103bf1dabeebc87590.
+
+commit ab3b32afbc61b524e8de8eba3860d0a23a336bd2
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:08:12 2023 +0500
+
+    add classroom number
+
+commit a2e20cd811b59f3eb9754d103bf1dabeebc87590
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 13:01:15 2023 +0500
+
+    add grade very boring and subject name
+
+commit 0939e712e4b495910a32a51fcce1c5b75812653f
+Author: igorplyukhin <51264207+igorplyukhin@users.noreply.github.com>
+Date:   Sat Sep 23 12:59:58 2023 +0500
+
+    my first commit
+
+commit 7cb9729587cde46104d71f20c31a1458747daf46
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 12:48:24 2023 +0500
+
+    Remove readme.txt
+
+commit 0bc0c0a660e1f88b3d373dc69db2c76dea894932
+Author: Dmitrii Toropov <dimator1973@gmail.com>
+Date:   Sat Sep 23 12:45:44 2023 +0500
+
+    merge rebase try 2
+
+commit 933f1ca9b21060eddc16bb684a5889f2d5e8f5db
+Merge: 1ae1dae c875280
+Author: vachagunn <vachikpuper@gmail.com>
+Date:   Sat Sep 23 12:41:30 2023 +0500
+
+    practice-01
+
+commit 1ae1daec307ee7443c749b3a8acb1ef97a48d8d5
+Author: vachagunn <vachikpuper@gmail.com>
+Date:   Sat Sep 23 12:40:28 2023 +0500
+
+    practice-01
+
+commit bf583286aea169be3cb33939c64701a19378dc91
+Author: Dmitrii Toropov <dimator1973@gmail.com>
+Date:   Sat Sep 23 12:36:52 2023 +0500
+
+    merge branch main
+
+commit c87528044ef57e6d4d76e098ab7a72b3550eaed0
+Merge: 6b1882f 070ff0b
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 12:34:35 2023 +0500
+
+    Nikita Kirin
+
+commit aa9ea288f709d15f2c50749f485518a0526f2e9d
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 12:30:39 2023 +0500
+
+    Edit Сдали.txt. Added Таланкин_И_И.txt
+
+commit 070ff0b40a2da52a8dad0a1ca8870f532c1be4b2
+Merge: a71fb6e f52dc43
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 12:22:23 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit a71fb6ebfb07bf015abd3a60f5815b0492813826
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 12:20:10 2023 +0500
+
+    Sasha sdal
+
+commit f52dc4333b9f02a48f9f959411c452470c51518c
+Merge: e99e4a2 6bca4f8
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 12:19:08 2023 +0500
+
+    edned!
+
+commit 7d8ba71add2251bd4c6242e096970d3381a29ad8
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 12:15:04 2023 +0500
+
+    Added test.txt
+
+commit e99e4a28c0d2ffcd6341978f085017a78e968357
+Merge: c1aa7fb cff78e7
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 12:06:58 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit c1aa7fba1b264c5781a239dea9b4798d6691cd1e
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 12:06:00 2023 +0500
+
+    ЕфимовДС добавить в Сдали.txt
+
+commit cff78e72f436c5d7a9d036aebfa17eaba35a8155
+Merge: 0072e6e c1f7a04
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 12:04:43 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit c1f7a04425994bb8a33119cca0e4f89efc63241f
+Merge: 8be0440 1c6ec59
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 12:03:43 2023 +0500
+
+    ЕфимовДС
+
+commit 9e53f23a63db96c5395b35ffd612f301ca73cce7
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 12:02:20 2023 +0500
+
+    Add .gitignore
+
+commit 0072e6e9c143544cb1724ad5743e68ac849cb863
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:28:54 2023 +0500
+
+    add prerelease
+
+commit ad17b4c8defc070c8531785d1718b84d9f901a5c
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:11:32 2023 +0500
+
+    Revert "first"
+    
+    This reverts commit 28f112b995ce7bfc9505c9ef925600ca98a2e995.
+
+commit 8e4f528a036651993423a9203b7178fa3b353813
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:04:33 2023 +0500
+
+    add auditorium
+
+commit bac9fdb7c182cc71f9c5e27660e03c99e7fdf943
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:54:55 2023 +0500
+
+    try
+
+commit 981c152ac76128ed87f2ebae9e1d0f9a4d0ddf39
+Author: Sashaperekhrest <chebupelmen20@gmail.com>
+Date:   Sat Sep 23 11:52:31 2023 +0500
+
+    merge rebase
+
+commit 1c6ec5926027ed5d577a764c1371b5b9a52d3ad6
+Author: Artem Belov <theflash.0320@gmail.com>
+Date:   Sat Sep 23 11:46:48 2023 +0500
+
+    БеловАМ
+
+commit fbe50120611ea3f2b5f43450f63c27007b5948ec
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 11:46:07 2023 +0500
+
+    Revert "Second commit Talankin. Add mark and course name"
+    
+    This reverts commit 4de5ef89bdd7cabfb4721a432f7e3095610a858c.
+
+commit b67460af564c6f1dc91357a6a01b02136d14c09f
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 11:42:05 2023 +0500
+
+    Add class name
+
+commit df65e4354189350f34127dfbcf9da742c4e9bbd1
+Merge: 737c7c7 1f0227b
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:41:23 2023 +0500
+
+    add Калугин М.Д.
+
+commit 4de5ef89bdd7cabfb4721a432f7e3095610a858c
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 11:38:58 2023 +0500
+
+    Second commit Talankin. Add mark and course name
+
+commit 737c7c7db7170bb87398ee258b124d7a4e213ea0
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:36:33 2023 +0500
+
+    add Kalugin all
+
+commit 9f6d13af04f09e04f0099d1c39297e79b86c3458
+Author: Mikhail Kalugin <m.d.kalugin@yandex.ru>
+Date:   Sat Sep 23 11:34:19 2023 +0500
+
+    add Kalugin
+
+commit 439e106c85ef5cdc9eb14e10d1c1d74291525742
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:29:56 2023 +0500
+
+    Работа с ветками 2
+
+commit 1f0227b6bf844e9b4a281a4a2e2856fa20209715
+Merge: d1b442a 44693ee
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:30:30 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101
+
+commit d1b442aba4d669c6748c54aaa304a135706c3e56
+Merge: b0a61b0 ad45593
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:29:48 2023 +0500
+
+    ДобрынинАС
+
+commit 44693ee63a81be673e151b0dae6cd0f5203afb34
+Merge: 9f24d2d b0a61b0
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:28:05 2023 +0500
+
+    Merge branch 'main' of https://github.com/ProgramIngeneering2023/Practice101 into main
+    
+    # Conflicts:
+    #       Сдали.txt
+
+commit f89c5388360ef27a25e5edca87b21725904d69b7
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:27:52 2023 +0500
+
+    Работа с ветками
+
+commit 9f24d2dc2062038222ab1171c43d4577a65c77a3
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:25:54 2023 +0500
+
+    AVP
+
+commit de923970c35e92d99529645f30b7695c517bcc33
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:22:35 2023 +0500
+
+    Игнорируем
+
+commit 90b82f78427f7512b717322be0f7954376bd1c94
+Author: talankin <i.talankin@prosoftsystems.ru>
+Date:   Sat Sep 23 11:22:01 2023 +0500
+
+    First commit Talankin
+
+commit b0a61b0ca153ea95c25f8fd5133f3d747eed3ccf
+Author: Демин Дмитрий <d.d.demin@urfu.me>
+Date:   Sat Sep 23 11:14:02 2023 +0500
+
+    Демин Д.Д.
+
+commit c6f04882e28a2ea05ed57f4d5b11c33a12108b75
+Merge: 926624f 8d39e81
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:17:57 2023 +0500
+
+    merge master
+
+commit 8be04409b6babb775bda04d0d1da2b94f515e7c4
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:17:23 2023 +0500
+
+    Создать test.txt
+
+commit 2ecaca8ab9c9a433a65330ac4b6364affd78c5d2
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:16:38 2023 +0500
+
+    Revert "Второй commit"
+    
+    This reverts commit 80eaf369c928b2c48bf9a2fdb8cdc47e6e106d6b.
+
+commit ad455931eb4a9693568853bb1f64912853504f5c
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 11:16:19 2023 +0500
+
+    added git log
+
+commit 926624f01ba4c921e745802aa4fc4428f5c7c75a
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:15:03 2023 +0500
+
+    readme fix
+
+commit 99cc8f2c96c32541852642575d9ee502dae8db71
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:14:54 2023 +0500
+
+    Добавить gitignore
+
+commit c72ed7cdb806be469aaf389d4338eca474675a62
+Author: RTF\student <test>
+Date:   Sat Sep 23 11:14:26 2023 +0500
+
+    readme fix
+
+commit 6b1882f6b48d6fc43bd7bda029559e255501651f
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 11:11:59 2023 +0500
+
+    Кирин Н.В.
+
+commit 78f182b3e85e887bea06e41086ad08a48ef8a0cd
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:10:33 2023 +0500
+
+    Revert "Добавить оценку и название"
+    
+    This reverts commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10.
+
+commit d001961d95853070eb072a9e0ba6ea7c33193d2b
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 11:09:40 2023 +0500
+
+    Третий коммит
+
+commit 6bca4f82d68593f8f62ca118716bc0073e49e9fd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:07:49 2023 +0500
+
+    added prelease.txt
+
+commit 8d39e81c701c771f514570002f516cc6c24d542a
+Author: Oleg "OSA413" Sokolov <OSA413@users.noreply.github.com>
+Date:   Sat Sep 23 11:07:31 2023 +0500
+
+    Второй
+
+commit 073bcba923fa29b8fb43074c7584df3e838e44bc
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 11:05:05 2023 +0500
+
+    Емельянов А.А.
+
+commit 29db0e7658f764aad3c139ef6972f4bfc1e7c00f
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:52:57 2023 +0500
+
+    add test.txt
+
+commit d9e0fe555fd733da96efa9a9b2118951f3385042
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:49:11 2023 +0500
+
+    Добавил .gitignore
+
+commit 23e169be7c0c45a70ca4fc92bb42be975e8541cb
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:47:37 2023 +0500
+
+    Revert "Добавил оценку сложности и название предмета"
+    
+    This reverts commit f305398ee4af6eecb92bb9b12cff7f6b3d0c020f.
+
+commit 807df5e91285b72e95d4572ad90960d236df28fe
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:32:57 2023 +0500
+
+    Добавил номер аудитории
+
+commit 2c881112d74c35ba143e3ac68b4a5a0ba3ab20ac
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:26:52 2023 +0500
+
+    Добавил оценку сложности и название предмета
+
+commit 44f553e13a979211dc2cbd6779c8a8fa0b31d846
+Author: emelanovandrej <emelyanov_a@tochka.com>
+Date:   Sat Sep 23 10:25:19 2023 +0500
+
+    Initial
+
+commit c106be5d6ca6cf13f1819574d36023ab3b2b0aa2
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:06:56 2023 +0500
+
+    added test.txt
+
+commit 1d0bd9dd97f8f15691b9a392dd2b5aa73b300ee0
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:04:10 2023 +0500
+
+    Добавить аудиторию
+
+commit 745c7dd4b6da915c48283ee605b75b22b8ddfd10
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 11:02:45 2023 +0500
+
+    Добавить оценку и название
+
+commit 80eaf369c928b2c48bf9a2fdb8cdc47e6e106d6b
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 10:51:07 2023 +0500
+
+    Второй commit
+
+commit 092bd600874875ba0332b93d17cc9d9967552d6e
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 11:01:07 2023 +0500
+
+    Revert "добавил оценку статуса (а ещё добавил название предмета через --amend)"
+    
+    This reverts commit 8af251118a42e1f3adee8697101bb4ae9d4242c8.
+
+commit 7894766d515e2cac52f29afb6d6ca833bff799cd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:58:49 2023 +0500
+
+    Revert "Revert "третий коммит""
+    
+    This reverts commit e34dfd09dc84d4cbded0c3c12e5a49bc0a8c8a06.
+
+commit e34dfd09dc84d4cbded0c3c12e5a49bc0a8c8a06
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:56:47 2023 +0500
+
+    Revert "третий коммит"
+    
+    This reverts commit 29c32bcf3703131f42d45948d2a6cad131b7defd.
+
+commit 29c32bcf3703131f42d45948d2a6cad131b7defd
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:56:15 2023 +0500
+
+    третий коммит
+
+commit c5fa5b3d5b9f6ccb8c92b86c647dedc510a12237
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:54:06 2023 +0500
+
+    prerelease.txt
+
+commit dfe401d3abc9682ca596a29a2cf6ae785913d33c
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:55:35 2023 +0500
+
+    + Сдали.txt, КорневДЕ.txt
+
+commit 8af251118a42e1f3adee8697101bb4ae9d4242c8
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:51:00 2023 +0500
+
+    добавил оценку статуса (а ещё добавил название предмета через --amend)
+
+commit f0e88bfc397e777b6cbbc3110a5cd068510ea6c3
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:54:24 2023 +0500
+
+    added test
+
+commit 90d5a09e934fc6ebcd1877e256d3328eff5bcc1d
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:52:45 2023 +0500
+
+    test.txt
+
+commit f448461b426dae3922e7906de1a1195e9eac0e94
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:52:20 2023 +0500
+
+    added gitignore
+
+commit 63cabbd0b0ef025204d885fd6775ff3ef94e31de
+Author: Dmitrii Chechikhin <65847130+Dimonchikamen@users.noreply.github.com>
+Date:   Sat Sep 23 10:50:23 2023 +0500
+
+    первый коммит
+
+commit 25ba9709e5a32f6ec1d92a3f22bc781e444e60d4
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:50:12 2023 +0500
+
+    Revert "added number"
+    
+    This reverts commit aee314a439223b78e11c4d1c1888332722cf6cbf.
+
+commit ff4371448109aaf5dcd6624045441983937fd3dd
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:49:53 2023 +0500
+
+    Gitignore file
+
+commit 985b850c5e8579846bf94643f6b622a4a689dc9e
+Author: Michael Burmatov <botmengoy@gmail.com>
+Date:   Sat Sep 23 10:48:00 2023 +0500
+
+    Мой первый коммит
+
+commit dae7417f9e61fa6633a7ee6f9f634ebc40e1399e
+Author: Denis Efimov <defimov99@yandex.ru>
+Date:   Sat Sep 23 10:47:46 2023 +0500
+
+    Мой первый коммит
+
+commit 3344f059b35acbeb0fe0735ba1182b9450f31601
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:45:52 2023 +0500
+
+    Revert "My current status and course name"
+    
+    This reverts commit 4ecf01d41cb0e77f2ef469730fd518a08b1d2d00.
+
+commit 23de829b093d48bac1109d1beb72e4d44b2d5101
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:45:46 2023 +0500
+
+    added room
+
+commit aee314a439223b78e11c4d1c1888332722cf6cbf
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:42:40 2023 +0500
+
+    added number
+
+commit 1adc280d7715cec86edc8f63183df8b1698bf498
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:41:53 2023 +0500
+
+    + test.txt
+
+commit 9978d2b60adf017686cd66b541ae53c568bf05d1
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:41:22 2023 +0500
+
+    Audience number
+
+commit 936f7c4b8b9ab5cf96bd512a828e79b6ac3ab419
+Author: Anton Dobrynin <andeedobro@gmail.com>
+Date:   Sat Sep 23 10:40:49 2023 +0500
+
+    My first commit
+
+commit fdd62065c7742fe8c9d768c3e02fac2de50712f7
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:39:40 2023 +0500
+
+    + .gitignore
+
+commit 4ecf01d41cb0e77f2ef469730fd518a08b1d2d00
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:35:27 2023 +0500
+
+    My current status and course name
+
+commit 22b08cb7567f13323be8b0241cef89f66111b543
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:38:17 2023 +0500
+
+    Revert "* добавлена оценка текущего статуса по шкале"
+    
+    This reverts commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114.
+
+commit 10b4b9dea34f4ea11911b83e53fe58069d22d285
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:36:15 2023 +0500
+
+    * добавлено название аудитории
+
+commit bccd2ffecc944ca7ee5ffa165fc786e2dc504114
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:31:38 2023 +0500
+
+    * добавлена оценка текущего статуса по шкале
+    * добавлено название предмета
+
+commit 1eacee0c3b9db413d5fdecdc16332bcdf4e4aeb3
+Author: Nikita Kirin <kirinnikita1406@gmail.com>
+Date:   Sat Sep 23 10:31:10 2023 +0500
+
+    My first commit
+
+commit 435e285c90f5875cfd3371cd390d6e80947d9eff
+Author: Dmitry Kornev <demitya7@gmail.com>
+Date:   Sat Sep 23 10:30:22 2023 +0500
+
+    мой первый коммит
+
+commit 296f8634dcd7474036ccbeb25b1da492c013e86b
+Author: Plazmer <praw2003@gmail.com>
+Date:   Fri Sep 22 20:32:53 2023 +0500
+
+    Initial commit

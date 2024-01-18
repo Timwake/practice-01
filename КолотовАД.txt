@@ -1,0 +1,48 @@
+commit 4fb3cca9f4a246f3c573f1fbea96daeb5a2ab1bf
+Merge: 954a115 2d3f811
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:45:56 2024 +0500
+
+    Merge branch 'TEST'
+
+commit 954a11562db7f6491f81c4b3fafe12230f837c71
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:44:33 2024 +0500
+
+    добавление файла в ветку пререлиз
+
+commit 2d3f8115190f65bc9e188ed20805173773524d77
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:42:56 2024 +0500
+
+    добавление файла в ветку тест
+
+commit 85c5246004483f8d14df3e7ef83d88339ce12062
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:25:01 2024 +0500
+
+    добавление файлов
+
+commit b1945276caf64c04f9cbfbd41f4d223046c89786
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:16:37 2024 +0500
+
+    четвертый коммит
+
+commit 76803a15a1adf0b482414d25ca9876fa45cca10b
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:12:52 2024 +0500
+
+    третий коммит
+
+commit 39e903bc41229b119af08f3817255116ae6c1e27
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:04:21 2024 +0500
+
+    Второй коммит
+
+commit 0c85fb25e1d0f4ebae9a08dd65c3a49eab0e94d6
+Author: KolotovAd <mickeymays3300@gmail.com>
+Date:   Mon Jan 8 14:01:21 2024 +0500
+
+    Мой первый коммит

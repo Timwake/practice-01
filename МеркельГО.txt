@@ -1,0 +1,43 @@
+commit bd54f3b4954e1302d857e5c84b56cd29f866ce08
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:58:18 2024 +0000
+
+    Added prerelease
+
+commit 62f7de0054aec785c574f87fa40f3982a792c252
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:57:27 2024 +0000
+
+    added test.txt
+
+commit 99ae49f7de6b190de19369628ed38f4919a500f0
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:56:10 2024 +0000
+
+    added gitignore
+
+commit ccd4328a776eb7349ac202aac01b119bbe86b156
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:54:17 2024 +0000
+
+    Revert "amend"
+    
+    This reverts commit 493bdaf6450db246c5bb3c5f1e3e485f662fa271.
+
+commit b787afc706f1c4619276f20f941efef472e942e2
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:50:37 2024 +0000
+
+    добавил 4-ую строку
+
+commit 493bdaf6450db246c5bb3c5f1e3e485f662fa271
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:44:32 2024 +0000
+
+    amend
+
+commit ed54d81cc219df9f363ee76581eb3b36eb1015f3
+Author: German Merkel <german.gg565@gmail.com>
+Date:   Thu Jan 18 12:43:32 2024 +0000
+
+    Мой первый коммит
